@@ -1,0 +1,12 @@
+{
+  "name": "clinic-line-bot",
+  "version": "1.0.0",
+  "description": "LINE webhook for clinic",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
